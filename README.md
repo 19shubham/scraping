@@ -27,7 +27,7 @@ python .\Scripts\django-admin.py createproject project-name
 
 #Download Project
 1. Clone the project using command:-
-git clone https://github.com/shivam04/python_scrap_ndtv.git
+git clone https://github.com/19shubham/scraping.git
 
 #Requirements
 1. Right there, you will find the requirements.txt file that has all the great debugging tools. To install them, simply type:
